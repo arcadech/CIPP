@@ -167,7 +167,7 @@
         "[resourceId('Microsoft.Web/sites', variables('funcAppName'))]"
       ],
       "properties": {
-        "packageUri": "https://cippreleases.blob.core.windows.net/cipp-api/latest.zip"
+        "packageUri": "https://raw.githubusercontent.com/arcadech/CIPP/refs/heads/main/latest.zip"
       }
     },
     {
